@@ -1,0 +1,13 @@
+backend/venv/
+venv/
+backend/uploads/
+backend/outputs/
+*.mp4
+*.mp3
+*.wav
+*.db
+backend/divivoice.db
+frontend_flutter/.dart_tool/
+frontend_flutter/build/app/
+frontend_flutter/build/ios/
+frontend_flutter/build/windows/
